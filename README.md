@@ -57,3 +57,12 @@ No commercial use is authorized.
 ---
 
 *定稿第2026年5月版 · 北京*
+## 授权声明
+
+本仓库所有内容采用 **CC BY-NC-ND 4.0** 许可协议 + 非商业公益授权。
+
+- ✅ 可完整复制、传播（需署名：焦占军 / 《发现系列》）
+- ❌ 不得删改、节选、改编
+- ❌ 不得用于商业用途（培训、课程、咨询、售卖）
+
+For details: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
