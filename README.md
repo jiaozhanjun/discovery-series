@@ -16,15 +16,9 @@ Discovery Series – Public Use Record (Tri‑Edition). First released May 2026.
 
 **《发现正向意愿·发现自然·发现觉性》（三合一版）**  
 本作品包含：
-- 《发现正向意愿》
-- 《发现自然》
-- 《发现觉性》
-  
-### Works / 作品
-- *Discovering Positive Will · Discovering Nature · Discovering Awareness (Tri‑Edition)*
-- *Discovering Positive Will*  
-- *Discovering Nature*  
-- *Discovering Awareness*  
+- 《发现正向意愿》 / *Discovering Positive Will*
+- 《发现自然》 / *Discovering Nature*
+- 《发现觉性》 / *Discovering Awareness*
 
 (Tri‑Edition / 三合一版)
 - 著作权人 / Copyright Holder：**焦占军 / Jiao Zhanjun**
