@@ -1,6 +1,12 @@
 # discovery-series
 Discovery Series – Public Use Record (Tri‑Edition). First released May 2026. Copyright © Jiao Zhanjun. CC BY-NC-ND 4.0 + Non-Commercial Public Welfare License. No modification, no excerpting, no commercial use.
-# 《发现系列》公开使用记录
+
+## 📦 本仓库文件说明
+*   `00.《发现系列》每日十二问(审核版).docx`：完整文档，含正文与版权声明。
+*   `DEVELOPER.md`：专为开发者准备的授权说明。
+*   `questions_only.txt`：纯问题列表，便于直接复制到代码或卡片中。
+  
+## 《发现系列》公开使用记录
 
 ## Discovery Series – Public Use Record
 
