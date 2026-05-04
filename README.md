@@ -19,7 +19,7 @@ Discovery Series – Public Use Record (Tri‑Edition). First released May 2026.
 - 《发现正向意愿》
 - 《发现自然》
 - 《发现觉性》
-- *Discovering Positive Will · Discovering Nature · Discovering Awareness (Tri‑Edition)*
+  
 ### Works / 作品
 - *Discovering Positive Will · Discovering Nature · Discovering Awareness (Tri‑Edition)*
 - *Discovering Positive Will*  
