@@ -1,16 +1,10 @@
 # discovery-series
+
 Discovery Series – Public Use Record (Tri‑Edition). First released May 2026. Copyright © Jiao Zhanjun. CC BY-NC-ND 4.0 + Non-Commercial Public Welfare License. No modification, no excerpting, no commercial use.
 
-## 📦 本仓库文件说明
-*   `00.《发现系列》每日十二问(审核版).docx`：完整文档，含正文与版权声明。
-*   `DEVELOPER.md`：专为开发者准备的授权说明。
-*   `questions_only.txt`：纯问题列表，便于直接复制到代码或卡片中。
-  
-## 《发现系列》公开使用记录
-
-## Discovery Series – Public Use Record
-
 ---
+
+## 《发现系列》公开使用记录 / Discovery Series – Public Use Record
 
 ### 作品 / Work
 
@@ -21,58 +15,116 @@ Discovery Series – Public Use Record (Tri‑Edition). First released May 2026.
 - 《发现觉性》 / *Discovering Awareness*
 
 (Tri‑Edition / 三合一版)
-- 著作权人 / Copyright Holder：**焦占军 / Jiao Zhanjun**
-- 首次固定及公开发布时间 / First Fixation & Public Release：**2026年5月**
-- 版本标识 / Version：**定稿第2026年5月版**  
-  *Finalized May 2026 Edition*
 
----
+- 著作权人 / Copyright Holder：**焦占军 / Jiao Zhanjun**
+- 首次固定及公开发布时间：**2026年5月**
+- 版本标识：**定稿第2026年5月版**
+- 地点：北京
 
 ### 授权方式 / License
 
-本系列采用：
-
-- **CC BY‑NC‑ND 4.0 国际版**  
-- **非商业公益授权**
-
+本系列采用 **CC BY‑NC‑ND 4.0 国际版** + **非商业公益授权**。  
 You may share it **in whole, unchanged**, for non‑commercial purposes, with attribution.
 
----
-
-### 完整性声明 / Integrity Statement
+### 完整性声明
 
 ❌ 不得删改、节选、改编  
 ❌ 不得用于培训、课程、收费咨询  
 ❌ 不得移除作者署名
 
-No modification, no excerpting, no commercial use.  
-Any unauthorized change or partial use is a violation of the integrity of this work.
-
----
-
-### 记录目的 / Purpose of This Record
+### 记录目的
 
 本记录仅用于著作权及在先使用证明，不授权任何商业使用。
 
-This record is for copyright and prior‑use proof only.  
-No commercial use is authorized.
+### 联系方式
+
+焦占军 / Jiao Zhanjun <jiaozhanjun@126.com>
 
 ---
 
-### 联系方式 / Contact
+## 📚 全系列分类目录（17卷 + 附录）
 
-著作权人 / Copyright Holder：焦占军 / Jiao Zhanjun  
-邮箱 / Email：jiaozhanjun@126.com
+本系列共 **17卷**（0–16）+ **附录**。0卷为通用入口，1–15卷按五大类展开，16卷为父母版（家庭教育），附录为日用功夫及教师家长提示。每卷独立，可任意选读。
+
+### 0. 通用入口（0卷）
+| 卷号 | 版本 | 卷名 | 一句话提醒 |
+|------|------|------|-------------|
+| 0 | 通用入口 | 《发现系列》每日十二问 | 今天，我做了吗？我开心吗？ |
+
+### 一、个人内在（7卷）—— 安顿自己
+| 卷号 | 版本 | 卷名 | 一句话提醒 |
+|------|------|------|-------------|
+| 1–3 | 三合一版 | 发现正向意愿·发现自然·发现觉性 | 儒·道·释合订本 |
+| 4 | 立身版 | 发现本能 | 今天，我站稳了吗？ |
+| 5 | 养气版 | 发现真气 | 今天，我守得住吗？ |
+| 6 | 中医版 | 发现中和 | 今天，我的阴阳平衡吗？ |
+| 7 | 华严宗版 | 发现法界 | 今天，我把世界切成碎片了吗？ |
+
+### 二、个人行动（4卷）—— 应对世界
+| 卷号 | 版本 | 卷名 | 一句话提醒 |
+|------|------|------|-------------|
+| 8 | 墨家版 | 发现兼爱 | 今天，我把“改天”变成“今天”了吗？ |
+| 9 | 法家版 | 发现秩序 | 今天，我的规则清晰吗？ |
+| 10 | 兵家版 | 发现全胜 | 今天，我“庙算”了吗？ |
+| 11 | 纵横家版 | 发现纵横 | 今天，我听出弦外之音了吗？ |
+
+### 三、社会关系（3卷）—— 温暖他人
+| 卷号 | 版本 | 卷名 | 一句话提醒 |
+|------|------|------|-------------|
+| 12 | 亲密关系版 | 发现伴侣 | 今天，我听完了吗？ |
+| 13 | 领导者版 | 发现领航 | 今天，我把焦虑传递给别人了吗？ |
+| 16 | 父母版 | 发现陪伴 | 今天，我陪孩子时手机放下了吗？ |
+
+### 四、创造（1卷）—— 活出自己
+| 卷号 | 版本 | 卷名 | 一句话提醒 |
+|------|------|------|-------------|
+| 14 | 创作者版 | 发现创作 | 今天，我允许自己做不好了吗？ |
+
+### 五、终极追问（1卷）—— 回到根本
+| 卷号 | 版本 | 卷名 | 一句话提醒 |
+|------|------|------|-------------|
+| 15 | 西哲版 | 发现存在 | 今天，我真实地存在了吗？ |
+
+### 附录（不占卷号）
+| 名称 | 说明 | 文件 |
+|------|------|------|
+| 泡脚与晨茶 | 日用功夫，心安身安 | `Appendix_泡脚与晨茶_v2026-05.pdf` |
+| 教师家长提示 | 三个核心提醒 | `Appendix_教师家长提示页_v2026-05.pdf` |
 
 ---
 
-*定稿第2026年5月版 · 北京*
-## 授权声明
+## 📖 如何使用本系列
 
-本仓库所有内容采用 **CC BY-NC-ND 4.0** 许可协议 + 非商业公益授权。
+- **推荐入口**：从 **[0卷《每日十二问》](./00_DiscoverySeries_通用入口_v2026-05.pdf)** 开始，无文化背景，人人可用。
+- **进阶选择**：根据您当下的状态（疲惫、迷茫、冲突、育儿焦虑等），直接选对应卷号。
+- **学习方式**：每卷独立，无需顺序阅读。每天睡前只问一条，一分钟就好。断了就回来。
+
+所有文档均以 PDF 格式存放在本仓库。
+
+---
+
+## 📦 本仓库已发布文件
+
+*   [`00_DiscoverySeries_通用入口_v2026-05.pdf`](./00_DiscoverySeries_通用入口_v2026-05.pdf) — 0卷 通用入口
+*   [`01-03_DiscoverySeries_三合一版_v2026-05.pdf`](./01-03_DiscoverySeries_三合一版_v2026-05.pdf) — 1–3卷 三合一版（儒·道·释）
+*   [`16_DiscoverySeries_父母版_v2026-05.pdf`](./16_DiscoverySeries_父母版_v2026-05.pdf) — 16卷 父母版
+*   [`Appendix_泡脚与晨茶_v2026-05.pdf`](./Appendix_泡脚与晨茶_v2026-05.pdf) — 附录 泡脚与晨茶
+*   [`Appendix_教师家长提示页_v2026-05.pdf`](./Appendix_教师家长提示页_v2026-05.pdf) — 附录 教师家长提示
+
+> 更多版本（立身、养气、中医、华严、墨、法、兵、纵横、亲密关系、领导者、创作者、西哲）正在整理中，完成后将陆续上传。
+
+---
+
+## ⚖️ 统一授权声明
+
+本仓库所有内容采用 **CC BY-NC-ND 4.0** + 非商业公益授权。
 
 - ✅ 可完整复制、传播（需署名：焦占军 / 《发现系列》）
 - ❌ 不得删改、节选、改编
 - ❌ 不得用于商业用途（培训、课程、咨询、售卖）
 
 For details: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+---
+
+*定稿第2026年5月版 · 北京*
