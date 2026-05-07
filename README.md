@@ -110,6 +110,7 @@ You may share it **in whole, unchanged**, for non‑commercial purposes, with at
 *   [`16_DiscoverySeries_父母版_v2026-05.pdf`](./16_DiscoverySeries_父母版_v2026-05.pdf) — 16卷 父母版
 *   [`Appendix_泡脚与晨茶_v2026-05.pdf`](./Appendix_泡脚与晨茶_v2026-05.pdf) — 附录 泡脚与晨茶
 *   [`Appendix_教师家长提示页_v2026-05.pdf`](./Appendix_教师家长提示页_v2026-05.pdf) — 附录 教师家长提示
+*   [`12_DiscoverySeries_亲密关系版_v2026-05.pdf`](./12_DiscoverySeries_亲密关系版_v2026-05.pdf) — 12卷 亲密关系版
 
 > 更多版本（立身、养气、中医、华严、墨、法、兵、纵横、亲密关系、领导者、创作者、西哲）正在整理中，完成后将陆续上传。
 
