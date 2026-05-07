@@ -103,16 +103,21 @@ You may share it **in whole, unchanged**, for non‑commercial purposes, with at
 
 ---
 
-## 📦 本仓库已发布文件
+## 📚 已发布版本
 
-*   [`00_DiscoverySeries_通用入口_v2026-05.pdf`](./00_DiscoverySeries_通用入口_v2026-05.pdf) — 0卷 通用入口
-*   [`01-03_DiscoverySeries_三合一版_v2026-05.pdf`](./01-03_DiscoverySeries_三合一版_v2026-05.pdf) — 1–3卷 三合一版（儒·道·释）
-*   [`16_DiscoverySeries_父母版_v2026-05.pdf`](./16_DiscoverySeries_父母版_v2026-05.pdf) — 16卷 父母版
-*   [`Appendix_泡脚与晨茶_v2026-05.pdf`](./Appendix_泡脚与晨茶_v2026-05.pdf) — 附录 泡脚与晨茶
-*   [`Appendix_教师家长提示页_v2026-05.pdf`](./Appendix_教师家长提示页_v2026-05.pdf) — 附录 教师家长提示
-*   [`12_DiscoverySeries_亲密关系版_v2026-05.pdf`](./12_DiscoverySeries_亲密关系版_v2026-05.pdf) — 12卷 亲密关系版
+| 卷号 | 版本 | 文件名 | 一句话提醒 |
+|------|------|--------|-------------|
+| 0 | 通用入口 | `00_DiscoverySeries_通用入口_v2026-05.pdf` | 今天，我做了吗？我开心吗？ |
+| 1–3 | 三合一版（儒·道·释） | `01-03_DiscoverySeries_三合一版_v2026-05.pdf` | 儒：对得起良心吗？道：活成自己本来的样子了吗？释：我觉知了吗？ |
+| 12 | 亲密关系版 | `12_DiscoverySeries_亲密关系版_v2026-05.pdf` | 今天，我听完了吗？ |
+| 13 | 领导者版 | `13_DiscoverySeries_领导者版_v2026-05.pdf` | 今天，我把焦虑传递给别人了吗？ |
+| 14 | 创作者版 | `14_DiscoverySeries_创作者版_v2026-05.pdf` | 今天，我允许自己做不好了吗？ |
+| 15 | 西哲版 | `15_DiscoverySeries_西哲版_v2026-05.pdf` | 今天，我真实地存在了吗？ |
+| 16 | 父母版 | `16_DiscoverySeries_父母版_v2026-05.pdf` | 今天，我陪孩子时手机放下了吗？ |
+| 附录 | 泡脚与晨茶 | `Appendix_泡脚与晨茶_v2026-05.pdf` | 日用功夫，心安身安 |
+| 附录 | 教师家长提示页 | `Appendix_教师家长提示页_v2026-05.pdf` | 三个核心提醒：只问一条、不是审判、断了就回来 |
 
-> 更多版本（立身、养气、中医、华严、墨、法、兵、纵横、亲密关系、领导者、创作者、西哲）正在整理中，完成后将陆续上传。
+> 更多版本（立身、养气、中医、华严、墨、法、兵、纵横）正在整理中，完成后将陆续上传。
 
 ---
 
