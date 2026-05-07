@@ -130,13 +130,12 @@ You may share it **in whole, unchanged**, for non‑commercial purposes, with at
 - ❌ 不得用于商业用途（培训、课程、咨询、售卖）
 
 For details: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 ---
-
-*定稿第---
 
 <p align="center">
   <strong>✨ 从今晚开始，只问一条 ✨</strong><br>
   <em>就一条</em>
-  
-</p>2026年5月版 · 北京*
+</p>
+---
+
+*定稿第---2026年5月版 · 北京*
