@@ -1,4 +1,4 @@
-# discovery-series
+# Discovery-series
 
 Discovery Series – Public Use Record (Tri‑Edition). First released May 2026. Copyright © Jiao Zhanjun. CC BY-NC-ND 4.0 + Non-Commercial Public Welfare License. No modification, no excerpting, no commercial use.
 
@@ -136,7 +136,6 @@ For details: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0
   <strong>✨ 从今晚开始，只问一条 ✨</strong><br>
   <em>就一条</em>
 </p>
----
 
 *定稿第2026年5月版 · 北京*
 
