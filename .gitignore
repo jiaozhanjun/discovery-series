@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Office 临时文件（Word 打开时产生的隐藏文件）
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+
+# 编辑器备份 / 临时文件
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# 本地测试 / 个人草稿（您自己可以创建这些文件夹，放些不提交的内容）
+draft/
+temp/
+test/
