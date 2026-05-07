@@ -114,7 +114,7 @@ You may share it **in whole, unchanged**, for non‑commercial purposes, with at
 | 14 | 创作者版 | `14_DiscoverySeries_创作者版_v2026-05.pdf` | 今天，我允许自己做不好了吗？ |
 | 15 | 西哲版 | `15_DiscoverySeries_西哲版_v2026-05.pdf` | 今天，我真实地存在了吗？ |
 | 16 | 父母版 | `16_DiscoverySeries_父母版_v2026-05.pdf` | 今天，我陪孩子时手机放下了吗？ |
-| 附录 | 泡脚与晨茶 | `Appendix_泡脚与晨茶_v2026-05.pdf` | 日用功夫，心安身安 |
+| 附录 | 泡脚与晨茶 | `Appendix_泡脚与晨茶_v2026-05.pdf` | 日用功夫，身安心安 |
 | 附录 | 教师家长提示页 | `Appendix_教师家长提示页_v2026-05.pdf` | 三个核心提醒：只问一条、不是审判、断了就回来 |
 
 > 更多版本（立身、养气、中医、华严、墨、法、兵、纵横）正在整理中，完成后将陆续上传。
