@@ -137,5 +137,4 @@ For details: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0
   <em>就一条</em>
 </p>
 ---
-
-*定稿第---2026年5月版 · 北京*
+*定稿第2026年5月版 · 北京*
