@@ -1,4 +1,4 @@
-# Discovery-series
+# discovery-series
 
 Discovery Series – Public Use Record (Tri‑Edition). First released May 2026. Copyright © Jiao Zhanjun. CC BY-NC-ND 4.0 + Non-Commercial Public Welfare License. No modification, no excerpting, no commercial use.
 
@@ -109,15 +109,23 @@ You may share it **in whole, unchanged**, for non‑commercial purposes, with at
 |------|------|--------|-------------|
 | 0 | 通用入口 | `00_DiscoverySeries_通用入口_v2026-05.pdf` | 今天，我做了吗？我开心吗？ |
 | 1–3 | 三合一版（儒·道·释） | `01-03_DiscoverySeries_三合一版_v2026-05.pdf` | 儒：对得起良心吗？道：活成自己本来的样子了吗？释：我觉知了吗？ |
+| 4 | 立身版 | `04_DiscoverySeries_立身版_v2026-05.pdf` | 今天，我站稳了吗？ |
+| 5 | 养气版 | `05_DiscoverySeries_养气版_v2026-05.pdf` | 今天，我守得住吗？ |
+| 6 | 中医版 | `06_DiscoverySeries_中医版_v2026-05.pdf` | 今天，我的阴阳平衡吗？ |
+| 7 | 华严宗版 | `07_DiscoverySeries_华严宗版_v2026-05.pdf` | 今天，我把世界切成碎片了吗？ |
+| 8 | 墨家版 | `08_DiscoverySeries_墨家版_v2026-05.pdf` | 今天，我把“改天”变成“今天”了吗？ |
+| 9 | 法家版 | `09_DiscoverySeries_法家版_v2026-05.pdf` | 今天，我的规则清晰吗？ |
+| 10 | 兵家版 | `10_DiscoverySeries_兵家版_v2026-05.pdf` | 今天，我“庙算”了吗？ |
+| 11 | 纵横家版 | `11_DiscoverySeries_纵横家版_v2026-05.pdf` | 今天，我听出弦外之音了吗？ |
 | 12 | 亲密关系版 | `12_DiscoverySeries_亲密关系版_v2026-05.pdf` | 今天，我听完了吗？ |
 | 13 | 领导者版 | `13_DiscoverySeries_领导者版_v2026-05.pdf` | 今天，我把焦虑传递给别人了吗？ |
 | 14 | 创作者版 | `14_DiscoverySeries_创作者版_v2026-05.pdf` | 今天，我允许自己做不好了吗？ |
 | 15 | 西哲版 | `15_DiscoverySeries_西哲版_v2026-05.pdf` | 今天，我真实地存在了吗？ |
 | 16 | 父母版 | `16_DiscoverySeries_父母版_v2026-05.pdf` | 今天，我陪孩子时手机放下了吗？ |
-| 附录 | 泡脚与晨茶 | `Appendix_泡脚与晨茶_v2026-05.pdf` | 日用功夫，身安心安 |
+| 附录 | 泡脚与晨茶 | `Appendix_泡脚与晨茶_v2026-05.pdf` | 日用功夫，心安身安 |
 | 附录 | 教师家长提示页 | `Appendix_教师家长提示页_v2026-05.pdf` | 三个核心提醒：只问一条、不是审判、断了就回来 |
 
-> 更多版本（立身、养气、中医、华严、墨、法、兵、纵横）正在整理中，完成后将陆续上传。
+> 更多版本（如有更新）将陆续上传。
 
 ---
 
@@ -130,10 +138,9 @@ You may share it **in whole, unchanged**, for non‑commercial purposes, with at
 - ❌ 不得用于商业用途（培训、课程、咨询、售卖）
 
 For details: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ---
 
 > **从今晚开始，只问一条。就一条。**
 
 *定稿第2026年5月版 · 北京*
-
----
