@@ -106,6 +106,7 @@ You may share it **in whole, unchanged**, for non‑commercial purposes, with at
 | 泡脚与晨茶 | 日用功夫，心安身安 | `Appendix_泡脚与晨茶_v2026-05.pdf` |
 | 教师家长提示 | 三个核心提醒 | `Appendix_教师家长提示页_v2026-05.pdf` |
 | 守心简轨 | 凝然守心操作指南 | `Appendix_守心简轨_v2026-05.pdf` |
+| 经典对照表 | 《发现系列》经典对照表 | `Appendix_经典对照表_v2026-05.pdf` |
 
 ---
 
@@ -147,7 +148,7 @@ You may share it **in whole, unchanged**, for non‑commercial purposes, with at
 | 附录 | 泡脚与晨茶 | `Appendix_泡脚与晨茶_v2026-05.pdf` | 日用功夫，心安身安 |
 | 附录 | 教师家长提示页 | `Appendix_教师家长提示页_v2026-05.pdf` | 三个核心提醒：只问一条、不是审判、断了就回来 |
 | 附录 | 守心简轨 | `Appendix_守心简轨_v2026-05.pdf` | 凝然守心操作指南 |
-
+| 附录 | 经典对照表 | `Appendix_经典对照表_v2026-05.pdf` | 《发现系列》经典对照表 |
 > 更多版本（如有更新）将陆续上传。
 
 ---
